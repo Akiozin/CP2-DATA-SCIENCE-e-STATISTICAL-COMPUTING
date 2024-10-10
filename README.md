@@ -7,7 +7,7 @@ Matheus Motta - 550352
 
 # Gerador de Relatório HTML com Análise de Dados
 
-Este projeto gera um relatório HTML com análise exploratória de um conjunto de dados utilizando `pandas` e `pandas-profiling`.
+Este projeto gera um relatório HTML com análise exploratória de um conjunto de dados utilizando `pandas` e `ydata-profiling`.
 
 ## Instalação
 
@@ -16,7 +16,7 @@ Este projeto gera um relatório HTML com análise exploratória de um conjunto d
 Execute os seguintes comandos para instalar as bibliotecas necessárias:
 
 ```bash
-pip install vega_datasets pandas pandas-profiling
+pip install vega_datasets pandas ydata-profiling
 ```
 
 ### 2. Teste o projeto
