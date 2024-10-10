@@ -1,9 +1,7 @@
 # CP 2 - DATA SCIENCE e STATISTICAL COMPUTING
-Fabrício Saavedra - 97631
-
-Guilherme Akio - 98582
-
-Matheus Motta - 550352
+- Fabrício Saavedra - 97631
+- Guilherme Akio - 98582
+- Matheus Motta - 550352
 
 # Gerador de Relatório HTML com Análise de Dados
 
@@ -12,8 +10,6 @@ Este projeto gera um relatório HTML com análise exploratória de um conjunto d
 ## Instalação
 
 ### 1. Instale as dependências necessárias
-
-Execute os seguintes comandos para instalar as bibliotecas necessárias:
 
 ```bash
 pip install vega_datasets pandas ydata-profiling
